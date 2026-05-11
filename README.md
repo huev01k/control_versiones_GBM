@@ -1,3 +1,3 @@
 # control_versiones_gbm
 
-Para actualizar documentos, sin perder versiones anteriores
+Repositorio para la gestión de documentos 
